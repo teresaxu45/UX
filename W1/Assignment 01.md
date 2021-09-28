@@ -13,8 +13,8 @@ Arizona (picture file name)
 
 ![Website of Arizona Government](arizonawebsite.png)
 
---![allt_Website of Arizona Government](arizona website.png)
+--![allt_Website of Arizona Government](arizonawebsite.png)
 
-![Website of Arizona Government](arizona website.png)
+![Website of Arizona Government](arizonawebsite.png)
 arizona website.png
 arizona website.png
