@@ -7,14 +7,8 @@
 
 purpose of the assignment-- 3-5 sentences
 
-website link
-
+https://az.gov/
 Arizona (picture file name)
 
 ![Website of Arizona Government](arizonawebsite.png)
 
---![allt_Website of Arizona Government](arizonawebsite.png)
-
-![Website of Arizona Government](arizonawebsite.png)
-arizona website.png
-arizona website.png
